@@ -10,7 +10,7 @@ WTForms==1.0.5
 Werkzeug==0.9.4
 argparse==1.2.1
 coverage==3.7.1
-ecdsa==0.10
+ecdsa==0.13.3
 itsdangerous==0.23
 mechanize==0.2.5
 nltk==3.0.0
